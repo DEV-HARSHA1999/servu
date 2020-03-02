@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">servu</string>
+    <string name="aadhaar">aadhar</string>
+    <string name="passport">passport</string>
+    <string name="voter_id">voterid</string>
+    <string name="pan_card">pancard</string>
+    <string name="driving_license">driving license</string>
+    <string name="national_government_services_portal">national government services portal</string>
+    <string name="all_exams_results">all exams results</string>
+    <string name="entrance_exams">entrance exams</string>
+    <string name="ap_govt_services_portal">ap govt services portal</string>
+</resources>
